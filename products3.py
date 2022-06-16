@@ -9,4 +9,4 @@ print(products)
 print(products[0][0])
 
 for product in products:
-	print(product[0], '的價格是', p[1])
+	print(product[0], '的價格是', peoduct[1])
