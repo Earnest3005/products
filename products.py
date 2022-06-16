@@ -7,6 +7,6 @@ while True:
 	p = []
 	p.append(product_name)
 	p.append(product_price)
-	products.append(p)
+	products.append(price)
 print(products)
 print(products[0][0])
